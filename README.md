@@ -4,17 +4,17 @@ Really bad bot for Scratch that takes a list of users and uses the Scratch API a
 **WARNING:** This is NOT for use. It's bad, broken and also contains MALWARE that will end your username and password across the internet to a now dead domain. You can remove this by removing lines 53 and 54 of Form1.vb. Yes, 13 year old me was planning to release this with a password scraper. Kids are REALLY dumb. Somewhat similarly, Scratch to EXE 2.0 contained code that would scape computer information as part of the DRM system.
 
 # From the SUMZ website at the time:
-##EDX Scratch User Mods Tool
+## EDX Scratch User Mods Tool
 
-###Beta build 1
-####What is it?
+### Beta build 1
+#### What is it?
 The scratch user mod tool allows some mods to the scratch website, like building reports on people or using views and follow bots to get attention.
 
-#####A follow bot? What do you mean?
+##### A follow bot? What do you mean?
 A Follow bot is an application that follows a large amount of people from a list in order to get followers through Follow4Follow. The concept of follow bots have been around since the dawn of social media. Technically, follow bots are against the Community Guidelines as it's tricking the community.
 EDX SUMZ is the first follow bot ever on scratch.
 
-####Does it really work?
+#### Does it really work?
 Yes!
 
 # Notes from TheBestProfile
