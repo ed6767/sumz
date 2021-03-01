@@ -1,7 +1,7 @@
 # sumz
 Really bad bot for Scratch that takes a list of users and uses the Scratch API and follows them really fast. Used on @TheBestProfile circa 2017.
 
-**WARNING:** This is NOT for use. It's bad, broken and also contains MALWARE that will end your username and password across the internet to a now dead domain. You can remove this by removing lines 53 and 54 of Form1.vb. Yes, 13 year old me was planning to release this with a password scraper. Kids are REALLY dumb. Somewhat similarly, Scratch to EXE 2.0 contained code that would scape computer information as part of the DRM system.
+**WARNING:** This is NOT for use. It's bad, broken and also contains MALWARE that will send your username and password across the internet to a now dead domain. You can remove this by removing lines 53 and 54 of Form1.vb. Yes, 13 year old me was planning to release this with a password scraper. Kids are REALLY dumb. Somewhat similarly, Scratch to EXE 2.0 contained code that would scape computer information as part of the DRM system.
 
 # From the SUMZ website at the time:
 ## EDX Scratch User Mods Tool
